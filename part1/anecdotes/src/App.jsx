@@ -49,7 +49,7 @@ const App = () => {
     </div>
     
   )
-  console.log(copy)
+ 
 }
 
 export default App
